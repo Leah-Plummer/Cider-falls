@@ -1,0 +1,1 @@
+/* This module generates an html representation of the list of guest to be displayed.
